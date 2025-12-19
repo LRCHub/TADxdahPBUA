@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Happy Nation",
+  "base_artist": "Ace of Base",
+  "createdAt": "2025-12-19T18:54:36.944420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Nation",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/01_Happy_Nation_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Nation",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/02_Happy_Nation_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Happy Nation",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/03_Happy_Nation_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happy Nation (12\" version)",
+      "artist": "Ace of Base",
+      "has_synced": false,
+      "path": "select/04_Happy_Nation_(12__version)_Ace_of_Base.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happy Nation (12'' Version)",
+      "artist": "Ace Of Base",
+      "has_synced": false,
+      "path": "select/05_Happy_Nation_(12''_Version)_Ace_Of_Base.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Happy Nation (album version)",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/06_Happy_Nation_(album_version)_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Happy Nation (Album Version)",
+      "artist": "Ace Of Base",
+      "has_synced": false,
+      "path": "select/07_Happy_Nation_(Album_Version)_Ace_Of_Base.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Happy Nation - Radio Edit",
+      "artist": "Ace of Base",
+      "has_synced": false,
+      "path": "select/08_Happy_Nation_-_Radio_Edit_Ace_of_Base.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Happy Nation (US remix)",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/09_Happy_Nation_(US_remix)_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Happy Nation (Remix)",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/10_Happy_Nation_(Remix)_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Happy Nation - Moody Gold Mix",
+      "artist": "Ace of Base",
+      "has_synced": false,
+      "path": "select/11_Happy_Nation_-_Moody_Gold_Mix_Ace_of_Base.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Happy Nation (Moody Gold Mix)",
+      "artist": "Ace Of Base",
+      "has_synced": false,
+      "path": "select/12_Happy_Nation_(Moody_Gold_Mix)_Ace_Of_Base.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Happy Nation (Radio Edit)",
+      "artist": "Ace Of Base",
+      "has_synced": false,
+      "path": "select/13_Happy_Nation_(Radio_Edit)_Ace_Of_Base.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Happy Nation",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/14_Happy_Nation_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Happy Nation",
+      "artist": "Ace Of Base",
+      "has_synced": false,
+      "path": "select/15_Happy_Nation_Ace_Of_Base.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HAPPY NATION",
+      "artist": "Ace of Base",
+      "has_synced": false,
+      "path": "select/pl_01_HAPPY_NATION_Ace_of_Base.txt"
+    }
+  ]
+}
